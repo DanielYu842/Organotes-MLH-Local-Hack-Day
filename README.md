@@ -1,3 +1,3 @@
 # MLH-Local-Hack-Day - CamHacks 
 
-This is our project submited to the MLH Local Hack Day Competition. This was also submitted at MLH Local Hack Day-Camhacks at Cameron Height Collegiate Institute. We won overall 3rd place. 
+A web application that allows users to submit a picture of their notes, and converts them into responsive and interactive cue cards for a greater study experience. MLH Local Hack Day Camhacks overall 3rd place winner.
